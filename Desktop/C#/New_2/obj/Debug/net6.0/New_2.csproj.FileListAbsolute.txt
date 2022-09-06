@@ -1,0 +1,15 @@
+C:\Users\Home-PC\Desktop\C#\New_2\bin\Debug\net6.0\New_2.exe
+C:\Users\Home-PC\Desktop\C#\New_2\bin\Debug\net6.0\New_2.deps.json
+C:\Users\Home-PC\Desktop\C#\New_2\bin\Debug\net6.0\New_2.runtimeconfig.json
+C:\Users\Home-PC\Desktop\C#\New_2\bin\Debug\net6.0\New_2.dll
+C:\Users\Home-PC\Desktop\C#\New_2\bin\Debug\net6.0\New_2.pdb
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\New_2.csproj.AssemblyReference.cache
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\New_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\New_2.AssemblyInfoInputs.cache
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\New_2.AssemblyInfo.cs
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\New_2.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\New_2.dll
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\refint\New_2.dll
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\New_2.pdb
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\New_2.genruntimeconfig.cache
+C:\Users\Home-PC\Desktop\C#\New_2\obj\Debug\net6.0\ref\New_2.dll
