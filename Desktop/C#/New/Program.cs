@@ -1,7 +1,36 @@
-﻿System.Console.WriteLine("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
+﻿int a, b, c ;
+ 
+        Console.WriteLine("Введите три числа : ");
+ 
+        a = Convert.ToInt32(Console.ReadLine());
+ 
+        b = Convert.ToInt32(Console.ReadLine());
 
-int result = num * num;
-System.Console.WriteLine($"Квадрат числа {num} -> {result}");
+        c = Convert.ToInt32(Console.ReadLine());
+        if (a > b)
+          
 
+ 
+        {
+ 
+            Console.WriteLine("{0} наибольшее число ", a);
+            
+            
 
+        }
+ 
+        if (c > b)
+ 
+        {
+ 
+            Console.WriteLine("{0} наибольшее число ", c);
+            
+        }
+ 
+        if (b > c)
+        {
+
+            Console.WriteLine("{0} наибольшее число ", b);
+
+        }    
+        Console.ReadLine();
